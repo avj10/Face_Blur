@@ -12,7 +12,7 @@ Recognizing face using different methods and blurring all faces in videos and im
 
 ### haarcascade_face_blur.py:
 
-![alt text](output/harcascade_face_blur.gif)
+![alt text](output/haarcascade_face_blur.gif)
 
 ### dlib_face_blur.py:
 
